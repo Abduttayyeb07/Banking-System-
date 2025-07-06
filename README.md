@@ -1,0 +1,1 @@
+This is a simple Bank Management System made in C language. It lets users create accounts, deposit and withdraw money, and check their balance. All account data is saved in a file so it can be used again later, even after closing the program.
